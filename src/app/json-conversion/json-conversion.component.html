@@ -1,0 +1,7 @@
+<div>
+    <input #inputString type="text" placeholder="Enter the string for conversion">
+    <button (click)="validateString(inputString.value)" id="convert-button" type="submit">Convert</button>
+</div>
+<div>
+    {{outputValue}}
+</div>

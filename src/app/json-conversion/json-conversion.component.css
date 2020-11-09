@@ -1,0 +1,10 @@
+input {
+    padding: 5px;
+    margin: 5px;
+    width: 250px;
+}
+
+#convert-button {
+    padding: 5px;
+    width: 100px;
+}
